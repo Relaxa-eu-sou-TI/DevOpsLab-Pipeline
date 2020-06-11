@@ -43,7 +43,7 @@ As Tecnologias usadas no projeto são:
 - Mocha
 - Chai
 
-Para executar o projeto localmente, basta rodar o comando **npm install** para baixar as dependências do projeto.
+Para executar o projeto localmente, basta rodar o comando **npm install** dentro do diretório para baixar as dependências do projeto. Em seguida digite **node app.js** para rodar o App e **npm test** para executar os testes. Acesse **http://localhost:8888** no seu navegador para ver o resultado.
 
 ## ☕ DevOps na Prática
 
