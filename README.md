@@ -10,9 +10,12 @@ DevOps na Prática - Criando uma Pipeline do Zero
 
 </h3>
 
-<!-- Insira aqui a Flag com sua URL do Travis -->
+<!-- Insira aqui a Flag com sua URL do Travis
+quero fazer o commit -->
 
-[![Build Status](https://app.travis-ci.com/VtrGuerra/DevOpsLab-Pipeline.svg?branch=master)](https://app.travis-ci.com/VtrGuerra/DevOpsLab-Pipeline)
+[![Build Status](https://travis-ci.com/VtrGuerra/DevOpsLab-Pipeline.svg?branch=master)](https://travis-ci.com/VtrGuerra/DevOpsLab-Pipeline)
+
+
 
 <p  align="center">
     <a  href="#-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
